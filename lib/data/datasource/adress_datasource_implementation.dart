@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 import 'package:either_dart/either.dart';
 import 'package:seach_cep_ddd_flutter/core/errors/server_error.dart';
 import 'package:seach_cep_ddd_flutter/core/http/http_client.dart';
